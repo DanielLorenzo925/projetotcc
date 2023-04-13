@@ -5,6 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
+    "@hookform/resolvers": "^2.9.7",
     "@mdi/font": "^7.0.96",
     "@mdi/js": "^7.0.96",
     "@mdi/react": "^1.6.1",
@@ -17,6 +18,7 @@
     "@types/node": "^16.11.50",
     "@types/react": "^17.x.x",
     "@types/react-dom": "^17.x.x",
+    "firebase": "^9.14.0",
     "react": "^17.x.x",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
@@ -57,6 +59,7 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.26",
-    "@types/uuid": "^8.3.4"
+    "@types/uuid": "^8.3.4",
+    "@wixc3/react-board": "^2.1.3"
   }
 }
